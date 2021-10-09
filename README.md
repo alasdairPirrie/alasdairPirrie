@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alasdairPirrie
+- 👀 I’m interested in beginner game development
+- 🌱 I’m currently learning python and pygame
